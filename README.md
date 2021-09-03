@@ -14,3 +14,5 @@
 11) Singly linked list https://www.geekboots.com/java/singly-linkedlist
     1. Creation and insertion in SLL at any index http://sampleprogramz.com/java/linkedlist.php
 
+12) Stack http://sampleprogramz.com/java/stack.php
+

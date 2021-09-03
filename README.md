@@ -10,6 +10,7 @@
 7) Stack program http://sampleprogramz.com/java/stack.php
 8) Counting the frequency of letters of the alphabet in some lines of text https://stackoverflow.com/questions/60908671/counting-the-frequency-of-letters-of-the-alphabet-in-some-lines-of-text
 9) Integer string conversion to interger array or integer list https://www.geeksforgeeks.org/java-program-to-convert-string-to-integer-array/
-10) Singly linked list https://www.geekboots.com/java/singly-linkedlist
+10) Arraylist http://sampleprogramz.com/java/arraylist.php
+11) Singly linked list https://www.geekboots.com/java/singly-linkedlist
     1. Creation and insertion in SLL at any index http://sampleprogramz.com/java/linkedlist.php
 

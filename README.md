@@ -15,6 +15,7 @@
     1. Creation and insertion in SLL at any index http://sampleprogramz.com/java/linkedlist.php
 
 12) Stack http://sampleprogramz.com/java/stack.php
-13) Java Collections https://www.edureka.co/blog/java-collections/
-14) Abstract method and Interface difference https://www.edureka.co/blog/difference-between-abstract-class-and-interface#abstractclassVSinterface
+13) Queue https://www.edureka.co/blog/java-queue/
+14) Java Collections https://www.edureka.co/blog/java-collections/
+15) Abstract method and Interface difference https://www.edureka.co/blog/difference-between-abstract-class-and-interface#abstractclassVSinterface
 

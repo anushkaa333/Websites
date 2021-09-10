@@ -18,4 +18,5 @@
 13) Queue https://www.edureka.co/blog/java-queue/
 14) Java Collections https://www.edureka.co/blog/java-collections/
 15) Abstract method and Interface difference https://www.edureka.co/blog/difference-between-abstract-class-and-interface#abstractclassVSinterface
+16) cpp vs java 'C++ vs Java' https://www.javatpoint.com/final-keyword?primis_content=embed1830f1qjstmh via 
 

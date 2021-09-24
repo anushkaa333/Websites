@@ -15,9 +15,10 @@
 12) Singly linked list https://www.geekboots.com/java/singly-linkedlist
     1. Creation and insertion in SLL at any index http://sampleprogramz.com/java/linkedlist.php
 
-12) Stack http://sampleprogramz.com/java/stack.php
-13) Queue https://www.edureka.co/blog/java-queue/
-14) Java Collections https://www.edureka.co/blog/java-collections/
-15) Abstract method and Interface difference https://www.edureka.co/blog/difference-between-abstract-class-and-interface#abstractclassVSinterface
-16) cpp vs java 'C++ vs Java' https://www.javatpoint.com/final-keyword?primis_content=embed1830f1qjstmh via 
-17) Normalization DBMS https://hackr.io/blog/dbms-normalization/amp
+13)Doubly LL https://www.geekboots.com/java/doubly-linkedlist
+14) Stack http://sampleprogramz.com/java/stack.php
+15) Queue https://www.edureka.co/blog/java-queue/
+16) Java Collections https://www.edureka.co/blog/java-collections/
+17) Abstract method and Interface difference https://www.edureka.co/blog/difference-between-abstract-class-and-interface#abstractclassVSinterface
+18) cpp vs java 'C++ vs Java' https://www.javatpoint.com/final-keyword?primis_content=embed1830f1qjstmh via 
+19) Normalization DBMS https://hackr.io/blog/dbms-normalization/amp

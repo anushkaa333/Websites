@@ -23,4 +23,5 @@
 17) Abstract method and Interface difference https://www.edureka.co/blog/difference-between-abstract-class-and-interface#abstractclassVSinterface
 18) cpp vs java 'C++ vs Java' https://www.javatpoint.com/final-keyword?primis_content=embed1830f1qjstmh via
 19) Normalization DBMS https://hackr.io/blog/dbms-normalization/amp
+20) Reverse a linked list https://www.codespeedy.com/how-to-reverse-a-linkedlist-in-java/
 

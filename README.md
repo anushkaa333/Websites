@@ -14,6 +14,7 @@
 11) Arraylist http://sampleprogramz.com/java/arraylist.php
 12) Singly linked list https://www.geekboots.com/java/singly-linkedlist
     1. Creation and insertion in SLL at any index http://sampleprogramz.com/java/linkedlist.php
+    2. Insert a node at any position https://www.alphacodingskills.com/java/ds/java-insert-a-new-node-at-a-given-position-in-the-linked-list.php
 
 13)Doubly LL https://www.geekboots.com/java/doubly-linkedlist
 

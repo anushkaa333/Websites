@@ -5,7 +5,15 @@
 2) Unique words in a string https://www.geeksforgeeks.org/java-program-to-print-all-unique-words-of-a-string/?ref=rp 
 3) Alphabetically sort the string https://www.geeksforgeeks.org/sort-a-string-in-java-2-different-ways/
 4) Convert integer string to integer array https://www.geeksforgeeks.org/java-program-to-convert-string-to-integer-array/
-5) Convert integer to integer array https://stackoverflow.com/questions/8033550/convert-an-integer-to-an-array-of-digits
+5) Convert integer to integer array https://stackoverflow.com/questions/8033550/convert-an-integer-to-an-array-of-digits ................ || ................ private int[] createArrayFromNumber(int number) {
+    String str = (new Integer(number)).toString();
+    char[] chArr = str.toCharArray();
+    int[] arr = new int[chArr.length];
+    for (int i = 0; i< chArr.length; i++) {
+        arr[i] = Character.getNumericValue(chArr[i]);
+    }
+    return arr;
+}
 6) Convert number which is accepted in string datatype to integer datatype https://stackoverflow.com/questions/21416315/int-array-to-int-number-in-java 
 7) Small to capital letters https://www.geeksforgeeks.org/convert-alternate-characters-string-upper-case/
 8) Number of occurences of character in ascendind order https://www.geeksforgeeks.org/sort-a-string-according-to-the-frequency-of-characters/

@@ -35,14 +35,15 @@ System.out.println(finalInt);
 15) Singly linked list https://www.geekboots.com/java/singly-linkedlist
     1. Creation and insertion in SLL at any index http://sampleprogramz.com/java/linkedlist.php
     2. Insert a node at any position https://www.alphacodingskills.com/java/ds/java-insert-a-new-node-at-a-given-position-in-the-linked-list.php
-
-13)Doubly LL https://www.geekboots.com/java/doubly-linkedlist
-
-14) Stack http://sampleprogramz.com/java/stack.php
-15) Queue https://www.edureka.co/blog/java-queue/
-16) Java Collections https://www.edureka.co/blog/java-collections/
-17) Abstract method and Interface difference https://www.edureka.co/blog/difference-between-abstract-class-and-interface#abstractclassVSinterface
-18) cpp vs java 'C++ vs Java' https://www.javatpoint.com/final-keyword?primis_content=embed1830f1qjstmh via
-19) Normalization DBMS https://hackr.io/blog/dbms-normalization/amp
-20) Reverse a linked list https://www.codespeedy.com/how-to-reverse-a-linkedlist-in-java/
+ 
+ 
+16) Doubly LL https://www.geekboots.com/java/doubly-linkedlist
+17)  Stack http://sampleprogramz.com/java/stack.php
+18)  Queue https://www.edureka.co/blog/java-queue/
+19) Java Collections https://www.edureka.co/blog/java-collections/
+20) Abstract method and Interface difference https://www.edureka.co/blog/difference-between-abstract-class-and-interface#abstractclassVSinterface
+21) cpp vs java 'C++ vs Java' https://www.javatpoint.com/final-keyword?primis_content=embed1830f1qjstmh via
+22) Normalization DBMS https://hackr.io/blog/dbms-normalization/amp
+23) Reverse a linked list https://www.codespeedy.com/how-to-reverse-a-linkedlist-in-java/
+24) JS https://medium.com/web-for-you/learn-javascript-part-1-60fb912a44a9
 

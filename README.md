@@ -25,13 +25,21 @@ for (int num : nums)
 }
 int finalInt = Integer.parseInt(strNum.toString());
 System.out.println(finalInt);
+
 8) Small to capital letters https://www.geeksforgeeks.org/convert-alternate-characters-string-upper-case/
+
 9) Number of occurences of character in ascendind order https://www.geeksforgeeks.org/sort-a-string-according-to-the-frequency-of-characters/
+
 10) Kadane's algo... Largest Sum Contiguous Subarray https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/
+
 11) Stack program http://sampleprogramz.com/java/stack.php , https://www.softwaretestinghelp.com/java-stack-tutorial/, https://www.techiedelight.com/stack-implementation-in-java/ , https://www.mysoftkey.com/data-structure-algorithm/how-to-implement-fixed-size-stack-in-java/ 
+
 12) Counting the frequency of letters of the alphabet in some lines of text https://stackoverflow.com/questions/60908671/counting-the-frequency-of-letters-of-the-alphabet-in-some-lines-of-text
+
 13) Integer string conversion to interger array or integer list https://www.geeksforgeeks.org/java-program-to-convert-string-to-integer-array/
+
 14) Arraylist http://sampleprogramz.com/java/arraylist.php
+
 15) Singly linked list https://www.geekboots.com/java/singly-linkedlist
     1. Creation and insertion in SLL at any index http://sampleprogramz.com/java/linkedlist.php
     2. Insert a node at any position https://www.alphacodingskills.com/java/ds/java-insert-a-new-node-at-a-given-position-in-the-linked-list.php

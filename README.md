@@ -54,4 +54,5 @@ System.out.println(finalInt);
 22) Normalization DBMS https://hackr.io/blog/dbms-normalization/amp
 23) Reverse a linked list https://www.codespeedy.com/how-to-reverse-a-linkedlist-in-java/
 24) JS https://medium.com/web-for-you/learn-javascript-part-1-60fb912a44a9
+25) Zig zag or spiral order traversal https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/discuss/1705438/Java-O(n)-clean-code-with-explanation
 

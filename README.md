@@ -55,4 +55,5 @@ System.out.println(finalInt);
 23) Reverse a linked list https://www.codespeedy.com/how-to-reverse-a-linkedlist-in-java/
 24) JS https://medium.com/web-for-you/learn-javascript-part-1-60fb912a44a9
 25) Zig zag or spiral order traversal https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/discuss/1705438/Java-O(n)-clean-code-with-explanation
+26) Surrounded region a) https://leetcode.com/problems/surrounded-regions/discuss/1715768/JAVA-Easy-to-understand-DFS-with-an-intermediate-state-between-'X'-and-'O' b) https://leetcode.com/problems/number-of-islands/submissions/
 
